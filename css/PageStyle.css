@@ -107,7 +107,7 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 	cursor: pointer;
 }
 .mainContent .externalResourcesNav .externalResources:hover {
-	background-color: rgba(153,153,153,1.00);
+	background-color:rgba(122,122,122,1.00)
 }
 .externalResourcesNav .externalResources a {
 	font-family: 'Montserrat', sans-serif;
